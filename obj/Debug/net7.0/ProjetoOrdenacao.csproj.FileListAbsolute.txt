@@ -1,0 +1,14 @@
+C:\Projeto\ProjetoOrdenacao\obj\Debug\net7.0\ProjetoOrdenacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto\ProjetoOrdenacao\obj\Debug\net7.0\ProjetoOrdenacao.AssemblyInfoInputs.cache
+C:\Projeto\ProjetoOrdenacao\obj\Debug\net7.0\ProjetoOrdenacao.AssemblyInfo.cs
+C:\Projeto\ProjetoOrdenacao\obj\Debug\net7.0\ProjetoOrdenacao.csproj.CoreCompileInputs.cache
+C:\Projeto\ProjetoOrdenacao\bin\Debug\net7.0\ProjetoOrdenacao.exe
+C:\Projeto\ProjetoOrdenacao\bin\Debug\net7.0\ProjetoOrdenacao.deps.json
+C:\Projeto\ProjetoOrdenacao\bin\Debug\net7.0\ProjetoOrdenacao.runtimeconfig.json
+C:\Projeto\ProjetoOrdenacao\bin\Debug\net7.0\ProjetoOrdenacao.dll
+C:\Projeto\ProjetoOrdenacao\bin\Debug\net7.0\ProjetoOrdenacao.pdb
+C:\Projeto\ProjetoOrdenacao\obj\Debug\net7.0\ProjetoOrdenacao.dll
+C:\Projeto\ProjetoOrdenacao\obj\Debug\net7.0\refint\ProjetoOrdenacao.dll
+C:\Projeto\ProjetoOrdenacao\obj\Debug\net7.0\ProjetoOrdenacao.pdb
+C:\Projeto\ProjetoOrdenacao\obj\Debug\net7.0\ProjetoOrdenacao.genruntimeconfig.cache
+C:\Projeto\ProjetoOrdenacao\obj\Debug\net7.0\ref\ProjetoOrdenacao.dll
