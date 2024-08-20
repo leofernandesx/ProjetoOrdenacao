@@ -3,7 +3,6 @@ Com o objetivo de testar e comparar diferentes algoritmos de ordenação em esta
 O projeto aqui presente foi desenvolvido pelos seguintes integrantes: 
  
 a.	Leonardo Fernando de Lima – RA: 001202005206 
-b.	Nathan Resende da Silva Pinto – RA: 001202004595 
  
 Os fatores de comparação entre os algoritmos foram: Tempo de execução, quantidade de trocas e comparações durante a ordenação. 
  
